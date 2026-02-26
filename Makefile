@@ -16,5 +16,5 @@ db-generate:
 
 clean:
 	@echo "Cleaning generated SQL code..."
-	rm -rf generated/*.go
+	rm -rf db/*.go
 	@echo "Clean complete!"
