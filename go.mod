@@ -3,7 +3,6 @@ module github.com/getkawai/database
 go 1.26.0
 
 require (
-	github.com/kawai-network/veridium v0.0.0-20260223154704-91e538e31def
 	github.com/kawai-network/x v1.0.24
 	github.com/kawai-network/y v0.1.14
 	modernc.org/sqlite v1.46.1
@@ -12,6 +11,7 @@ require (
 require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/ethereum/go-ethereum v1.17.0 // indirect
+	github.com/google/pprof v0.0.0-20250602020802-c6617b811d0e // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect

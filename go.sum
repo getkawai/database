@@ -10,8 +10,6 @@ github.com/hashicorp/golang-lru/v2 v2.0.7 h1:a+bsQ5rvGLjzHuww6tVxozPZFVghXaHOwFs
 github.com/hashicorp/golang-lru/v2 v2.0.7/go.mod h1:QeFd9opnmA6QUJc5vARoKUSoFhyfM2/ZepoAG6RGpeM=
 github.com/holiman/uint256 v1.3.2 h1:a9EgMPSC1AAaj1SZL5zIQD3WbwTuHrMGOerLjGmM/TA=
 github.com/holiman/uint256 v1.3.2/go.mod h1:EOMSn4q6Nyt9P6efbI3bueV4e1b3dGlUCXeiRV4ng7E=
-github.com/kawai-network/veridium v0.0.0-20260223154704-91e538e31def h1:rQTG561BS6tj+etSotzNc4hYmvIrJMGcq9NXIgElT1g=
-github.com/kawai-network/veridium v0.0.0-20260223154704-91e538e31def/go.mod h1:+1qkhX1myh/TaQ+oRAj7tFiM0dehSJWH7w6W9go8Jg8=
 github.com/kawai-network/x v1.0.24 h1:Ik2RMIVoWJ3cKQx3BI/QRu68MvrGnWHrG4OeacQNoDM=
 github.com/kawai-network/x v1.0.24/go.mod h1:RoVoDrTnvuH5kN1GisKn8MK2OPW9J5PDq2XXRD8qCzU=
 github.com/kawai-network/y v0.1.14 h1:FH+/xIh3KIG3n7BoVZ435nOB6k41o8/7XrBV9jCiByQ=
