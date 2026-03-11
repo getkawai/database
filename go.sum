@@ -12,6 +12,8 @@ github.com/holiman/uint256 v1.3.2 h1:a9EgMPSC1AAaj1SZL5zIQD3WbwTuHrMGOerLjGmM/TA
 github.com/holiman/uint256 v1.3.2/go.mod h1:EOMSn4q6Nyt9P6efbI3bueV4e1b3dGlUCXeiRV4ng7E=
 github.com/kawai-network/x v1.0.24 h1:Ik2RMIVoWJ3cKQx3BI/QRu68MvrGnWHrG4OeacQNoDM=
 github.com/kawai-network/x v1.0.24/go.mod h1:RoVoDrTnvuH5kN1GisKn8MK2OPW9J5PDq2XXRD8qCzU=
+github.com/kawai-network/x v1.0.30 h1:LnIOqx+cMuxl05ZXvX25/cr7IO7XD+MfSIF7XEkGxPA=
+github.com/kawai-network/x v1.0.30/go.mod h1:jHhGBU0KBlOoY/IlaNSwaFfhVhXqcjscRUDYwGKYSTE=
 github.com/kawai-network/y v0.1.14 h1:FH+/xIh3KIG3n7BoVZ435nOB6k41o8/7XrBV9jCiByQ=
 github.com/kawai-network/y v0.1.14/go.mod h1:eGBQA+pB+NbTklBBpNwAyEx+rNvN5+dxmeec+L/4TDc=
 github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWEY=

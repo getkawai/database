@@ -3,7 +3,7 @@ module github.com/getkawai/database
 go 1.26.0
 
 require (
-	github.com/kawai-network/x v1.0.24
+	github.com/kawai-network/x v1.0.30
 	github.com/kawai-network/y v0.1.14
 	modernc.org/sqlite v1.46.1
 )
